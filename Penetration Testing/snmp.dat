@@ -1,0 +1,12 @@
+Nmap scan report for 192.168.134.7
+PORT    STATE  SERVICE
+161/tcp closed snmp
+162/tcp closed snmptrap
+161/udp closed snmp
+162/udp closed snmptrap
+Nmap scan report for 192.168.134.8
+PORT    STATE  SERVICE
+161/tcp closed snmp
+162/tcp closed snmptrap
+161/udp closed snmp
+162/udp closed snmptrap

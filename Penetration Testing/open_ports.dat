@@ -1,0 +1,12 @@
+Nmap scan report for 192.168.134.7
+PORT   STATE         SERVICE
+80/tcp open          http
+Nmap scan report for 192.168.134.8
+PORT   STATE         SERVICE
+80/tcp open          http
+Nmap scan report for 192.168.134.7
+PORT   STATE         SERVICE
+80/tcp open          http
+Nmap scan report for 192.168.134.8
+PORT   STATE         SERVICE
+80/tcp open          http
